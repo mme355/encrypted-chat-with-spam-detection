@@ -1,0 +1,4 @@
+this code should be used in an IDE/Compiler that supports saving the file and running it in CMD because of the nature of the output that needs two sperate consoles. 
+if you do go into command prompt put the file path after cd and start working on installing the required packeges and then run otherwise you'll find yourself with
+ line[4096] error when you have 82 to 100 lines of code 
+                                                       # feel free to use code as a refrence or to solve an upcoming project/HW
